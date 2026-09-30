@@ -28,6 +28,7 @@ flutter:
         pluginClass: MapsLauncherPlugin
       ios:
         pluginClass: MapsLauncherPlugin
+        sharedDarwinSource: true
       windows:
         pluginClass: MapsLauncherPlugin
       macos:
